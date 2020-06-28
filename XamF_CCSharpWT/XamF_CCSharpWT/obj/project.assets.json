@@ -726,11 +726,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\urbac\\source\\repos\\XamF_CCSharpWT\\XamF_CCSharpWT\\XamF_CCSharpWT\\XamF_CCSharpWT.csproj",
+      "projectUniqueName": "C:\\Users\\urbac\\Documents\\GitHub\\XamF_CCSharpWT\\XamF_CCSharpWT\\XamF_CCSharpWT\\XamF_CCSharpWT.csproj",
       "projectName": "XamF_CCSharpWT",
-      "projectPath": "C:\\Users\\urbac\\source\\repos\\XamF_CCSharpWT\\XamF_CCSharpWT\\XamF_CCSharpWT\\XamF_CCSharpWT.csproj",
+      "projectPath": "C:\\Users\\urbac\\Documents\\GitHub\\XamF_CCSharpWT\\XamF_CCSharpWT\\XamF_CCSharpWT\\XamF_CCSharpWT.csproj",
       "packagesPath": "C:\\Users\\urbac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\urbac\\source\\repos\\XamF_CCSharpWT\\XamF_CCSharpWT\\XamF_CCSharpWT\\obj\\",
+      "outputPath": "C:\\Users\\urbac\\Documents\\GitHub\\XamF_CCSharpWT\\XamF_CCSharpWT\\XamF_CCSharpWT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
