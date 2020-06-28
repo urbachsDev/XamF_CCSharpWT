@@ -30,7 +30,7 @@ jobs:
         cd XamF_CCSharpWT
         nuget restore
         cd XamF_CCSharpWT.Android
-        msbuild Blank.Android.csproj /verbosity:normal /t:Rebuild /p:Configuration=Debug
+        msbuild XamF_CCSharpWT.Android.csproj /verbosity:normal /t:Rebuild /p:Configuration=Debug
         
   iOS:
     runs-on: macos-latest
