@@ -10,7 +10,6 @@ using Xamarin.Forms.Xaml;
 using XamF_CCSharpWT.Models;
 using XamF_CCSharpWT.Views;
 using XamF_CCSharpWT.ViewModels;
-using XamF_CCSharpWT.Views;
 
 namespace XamF_CCSharpWT.Views
 {

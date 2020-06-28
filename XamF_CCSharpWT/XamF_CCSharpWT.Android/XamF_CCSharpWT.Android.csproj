@@ -90,8 +90,8 @@
     <AndroidResource Include="Resources\drawable\xamarin_logo.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\XamFormsApp-CocosSharpWlkTh\XamF_CCSharpWT.csproj">
-      <Project>{98195FC6-CFC9-4195-985E-53B2D6BCF525}</Project>
+    <ProjectReference Include="..\XamF_CCSharpWT\XamF_CCSharpWT.csproj">
+      <Project>{b266ba5f-dd55-4e2e-9b3d-3479834c5855}</Project>
       <Name>XamF_CCSharpWT</Name>
     </ProjectReference>
   </ItemGroup>
